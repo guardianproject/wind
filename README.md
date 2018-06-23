@@ -2,7 +2,11 @@
 
 This is the Wind general project repo. It provides a place to store general documents for the whole projects, as well as links to components of the suite.
 
+## About the Project
+
 If you haven't seen our fancy new video, you can view it here: https://www.youtube.com/watch?v=fGuiy3rlOVQ&feature=youtu.be
+
+You can also learn a lot more about our work on off-grid, nearby networks on our website at: https://guardianproject.info/wind
 
 ## Project Components
 
