@@ -6,12 +6,18 @@ If you haven't seen our fancy new video, you can view it here: https://www.youtu
 
 ## Project Components
 
+### Chime
+
 * Wind Chime Announce Protocol (WCAP): https://github.com/n8fr8/chimeapp/wiki
 * Chime App: https://github.com/guardianproject/chimeapp
 * Chime "Ayanda" Nearby Library for Android: https://github.com/sabzo/ayanda
 
+### F-Droid
+
 * F-Droid project: https://f-droid.org/
 * F-Droid Client repo: https://gitlab.com/fdroid/fdroidclient
+
+### Open Archive
 
 * Open Archive project: https://open-archive.org/
 * OA Android Client repo: https://github.com/OpenArchive/openarchive-android
